@@ -14,7 +14,9 @@ public class Day4 {
     }
     public static void sum()
     {
-
+        int a=10,b=1;
+        int sum = a+b;
+        System.out.println("sum"+sum);
     }
 }
 
